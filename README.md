@@ -1,1 +1,1 @@
-# MetodyNumeryczne
+# Interpolacja
